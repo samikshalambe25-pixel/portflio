@@ -181,7 +181,7 @@ export default function HomePage() {
 
                 <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 overflow-hidden rounded-full border-4 sm:border-8 border-background shadow-2xl bg-muted">
                   <img
-                    src={homeData.hero?.avatarUrl || "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"}
+                    src={homeData.hero?.avatarUrl && !homeData.hero?.avatarUrl.includes('encrypted-tbn0') ? homeData.hero?.avatarUrl : '/profile.jpg'}
                     alt={heroName}
                     className="h-full w-full object-cover object-center"
                     onError={(e) => {

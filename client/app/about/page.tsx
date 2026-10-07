@@ -85,7 +85,7 @@ export default function AboutPage() {
             <div className="overflow-hidden rounded-2xl border border-border bg-card p-4 shadow-sm">
               <div className="aspect-square w-full overflow-hidden rounded-xl bg-muted relative">
                 <img
-                  src={aboutData.profileImage || "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"}
+                  src={aboutData.profileImage && !aboutData.profileImage.includes('encrypted-tbn0') ? aboutData.profileImage : '/profile.jpg'}
                   alt={aboutData.name}
                   className="h-full w-full object-cover object-center"
                   onError={(e) => {

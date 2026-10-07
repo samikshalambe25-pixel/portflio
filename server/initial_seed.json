@@ -6,7 +6,7 @@
         "name": "Komal Kshirsagar",
         "title": "MERN Stack Developer",
         "subtitle": "Crafting Scalable Web & Mobile Applications.",
-        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"
+        "avatarUrl": "/profile.jpg"
       },
       "about": {
         "title": "About Me",
@@ -58,8 +58,9 @@
       "createdAt": "2025-10-07T04:07:27.445Z",
       "updatedAt": "2025-10-07T04:18:57.204Z",
       "__v": 0,
-      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"
-    }
+      "profileImage": "/profile.jpg"
+    },
+    "profileImage": "/profile.jpg"
   },
   "stats": {
     "success": true,
