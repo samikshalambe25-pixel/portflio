@@ -282,14 +282,25 @@ export default function AdminPage() {
           </div>
 
           <div className="flex items-center gap-3">
-            <Link
-              href="/"
+            <a
+              href="https://portflio-o2s2.vercel.app/"
               target="_blank"
-              className="inline-flex items-center gap-1.5 rounded-lg border border-border bg-background px-3 py-1.5 text-xs font-semibold text-foreground hover:bg-muted"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-blue-500/30 bg-blue-500/10 px-3 py-1.5 text-xs font-semibold text-blue-600 hover:bg-blue-500/20 transition-all"
             >
-              <span>View Live Website</span>
+              <span>Live Website</span>
               <ExternalLink className="h-3.5 w-3.5" />
-            </Link>
+            </a>
+
+            <a
+              href="https://portflio-orcin-tau.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 rounded-lg border border-emerald-500/30 bg-emerald-500/10 px-3 py-1.5 text-xs font-semibold text-emerald-600 hover:bg-emerald-500/20 transition-all"
+            >
+              <span>Live API</span>
+              <ExternalLink className="h-3.5 w-3.5" />
+            </a>
 
             <button
               onClick={handleResetDatabase}
@@ -466,6 +477,50 @@ export default function AdminPage() {
                       <p className="font-semibold text-foreground">
                         {footerData?.email || 'komalkshirasagar32009@gmail.com'}
                       </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Live Deployment Links */}
+                <div className="rounded-2xl border border-blue-500/30 bg-blue-500/5 p-6 shadow-sm">
+                  <div className="flex items-center justify-between mb-3">
+                    <h2 className="text-base font-bold text-foreground flex items-center gap-2">
+                      <span className="h-2.5 w-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                      <span>Live Production Deployments</span>
+                    </h2>
+                    <span className="rounded-full bg-emerald-500/10 text-emerald-600 px-2.5 py-0.5 text-xs font-bold uppercase">
+                      Online & Connected
+                    </span>
+                  </div>
+                  <div className="grid gap-4 sm:grid-cols-2 text-sm">
+                    <div className="rounded-xl border border-border bg-card p-4">
+                      <span className="text-xs text-muted-foreground font-semibold uppercase block mb-1">
+                        Live Client (Frontend Website)
+                      </span>
+                      <a
+                        href="https://portflio-o2s2.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-sm font-bold text-blue-600 hover:underline flex items-center gap-1.5 break-all"
+                      >
+                        <span>https://portflio-o2s2.vercel.app/</span>
+                        <ExternalLink className="h-3.5 w-3.5 shrink-0" />
+                      </a>
+                    </div>
+
+                    <div className="rounded-xl border border-border bg-card p-4">
+                      <span className="text-xs text-muted-foreground font-semibold uppercase block mb-1">
+                        Live Server (Backend API)
+                      </span>
+                      <a
+                        href="https://portflio-orcin-tau.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-sm font-bold text-emerald-600 hover:underline flex items-center gap-1.5 break-all"
+                      >
+                        <span>https://portflio-orcin-tau.vercel.app/</span>
+                        <ExternalLink className="h-3.5 w-3.5 shrink-0" />
+                      </a>
                     </div>
                   </div>
                 </div>

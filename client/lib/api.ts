@@ -1,6 +1,6 @@
 // Centralized API Client
 
-const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'http://localhost:5000/api';
+const API_BASE_URL = process.env.NEXT_PUBLIC_API_URL || 'https://portflio-orcin-tau.vercel.app/api';
 
 const getToken = () => {
   if (typeof window !== 'undefined') {

@@ -118,6 +118,16 @@ export default function Footer() {
             <Link href="/terms" className="hover:underline">Terms of Service</Link>
             <span>•</span>
             <Link href="/admin" className="text-blue-600 font-medium hover:underline">Admin Portal</Link>
+            <span>•</span>
+            <a
+              href="https://portflio-orcin-tau.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-emerald-600 dark:text-emerald-400 font-medium hover:underline inline-flex items-center gap-1.5"
+            >
+              <span className="h-1.5 w-1.5 rounded-full bg-emerald-500 animate-pulse"></span>
+              <span>Live API</span>
+            </a>
           </div>
         </div>
       </div>
