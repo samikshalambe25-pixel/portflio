@@ -1,0 +1,475 @@
+{
+  "users": [
+    {
+      "_id": "muxyjgp90gg683f",
+      "username": "admin",
+      "email": "admin@portfolio.com",
+      "password": "$2b$10$6CwNVTisiljjbokFUGAyI.SPriKyxOpsIfMr/un6f3x.5p4PoJiYi",
+      "role": "admin",
+      "createdAt": "2026-10-07T10:21:19.053Z"
+    }
+  ],
+  "home": {
+    "hero": {
+      "name": "samiksha rajaram lambe",
+      "title": "MERN Stack Developer",
+      "subtitle": "Crafting Scalable Web & Mobile Applications.",
+      "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"
+    },
+    "about": {
+      "title": "About Me",
+      "subtitle": "Get to know me better",
+      "description1": "I'm a MERN Stack Developer with a passion for building modern, responsive web applications. With expertise in JavaScript, React, Node.js, and related technologies, I create intuitive and visually appealing user interfaces.",
+      "description2": "Currently working at Matic UI, I've contributed to various projects including a Medical Diagnostic App and a SaaS Property Management Platform.",
+      "currentCompany": "Matic UI"
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "subtitle": "Some of my recent work"
+    },
+    "skills": {
+      "title": "My Skills",
+      "subtitle": "Technologies I work with"
+    },
+    "contact": {
+      "title": "Ready to Work Together?",
+      "subtitle": "Let's discuss your project and see how I can help bring your ideas to life."
+    },
+    "_id": "69cb44483c0441ba05819de5",
+    "createdAt": "2026-03-31T03:49:28.721Z",
+    "updatedAt": "2026-10-07T10:41:01.480Z",
+    "__v": 0
+  },
+  "about": {
+    "bio": {
+      "introduction": "I'm Samiksha Lambe, a MERN Stack Developer based in Chhatrapati Sambhajinagar, Maharashtra. With a strong foundation in web development, I specialize in creating responsive and user-friendly web applications. ",
+      "journey": "My journey in web development began during my MCA studies where I developed a passion for creating elegant solutions to complex problems. Since then, I've worked on various projects ranging from e-commerce platforms to real-time communication applications.",
+      "current": "Currently working at Matic UI, I've had the opportunity to work on cutting-edge projects including a Medical Diagnostic App and a SaaS Property Management Platform. I enjoy collaborating with teams and clients to deliver high-quality products that exceed expectations."
+    },
+    "personalInfo": {
+      "dateOfBirth": "18 dec",
+      "location": "Chhatrapati Sambhajinagar, Maharashtra",
+      "email": "samikshalambe25@gmail.com",
+      "phone": "9270481797",
+      "languages": [
+        "English",
+        "Hindi",
+        "Marathi"
+      ]
+    },
+    "_id": "68e491ffc3970848918c597f",
+    "name": "Komal Kshirsagar",
+    "title": "MERN Stack Developer",
+    "createdAt": "2025-10-07T04:07:27.445Z",
+    "updatedAt": "2026-10-07T10:40:20.812Z",
+    "__v": 0,
+    "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"
+  },
+  "stats": {
+    "_id": "68e49309ce63313fe20c61ce",
+    "yearsExperience": "1+",
+    "projectsCompleted": "1+",
+    "technologies": "4+",
+    "happyClients": "0",
+    "createdAt": "2025-10-07T04:11:53.870Z",
+    "updatedAt": "2026-10-07T10:39:01.370Z",
+    "__v": 0
+  },
+  "skills": [
+    {
+      "_id": "6a61e2d74c55984b1f928d4b",
+      "name": "Cloudinary",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-07-23T09:45:59.690Z",
+      "updatedAt": "2026-07-23T09:45:59.690Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a61e2ee4c55984b1f928d4d",
+      "name": "Postman",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-07-23T09:46:22.160Z",
+      "updatedAt": "2026-07-23T09:46:22.160Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a61e3214c55984b1f928d4f",
+      "name": "Swagger",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-07-23T09:47:13.619Z",
+      "updatedAt": "2026-07-23T09:47:13.619Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a7157a7fb0821c0f0c02361",
+      "name": "Morgan",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-08-04T03:08:23.929Z",
+      "updatedAt": "2026-08-04T03:08:23.929Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a7158bfe374ec0e525885d6",
+      "name": "Swagger",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-08-04T03:13:03.169Z",
+      "updatedAt": "2026-08-04T03:13:03.169Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a7158dde374ec0e525885d8",
+      "name": "Vercel-Render,",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-08-04T03:13:33.194Z",
+      "updatedAt": "2026-08-04T03:14:23.828Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a715954e374ec0e525885dd",
+      "name": "(RBAC)-Passport.js",
+      "category": "",
+      "level": 80,
+      "order": 0,
+      "createdAt": "2026-08-04T03:15:32.767Z",
+      "updatedAt": "2026-08-04T03:15:32.767Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f343b8876282ed21fda",
+      "name": "JavaScript",
+      "category": "Programming Language",
+      "level": 90,
+      "order": 1,
+      "createdAt": "2025-10-07T03:55:32.174Z",
+      "updatedAt": "2025-10-07T03:55:32.174Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f343b8876282ed21fdc",
+      "name": "React",
+      "category": "Frontend",
+      "level": 90,
+      "order": 2,
+      "createdAt": "2025-10-07T03:55:32.591Z",
+      "updatedAt": "2025-10-07T03:55:32.591Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f343b8876282ed21fde",
+      "name": "Node.js",
+      "category": "Backend",
+      "level": 85,
+      "order": 3,
+      "createdAt": "2025-10-07T03:55:32.978Z",
+      "updatedAt": "2025-10-07T03:55:32.978Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f353b8876282ed21fe0",
+      "name": "Microservices",
+      "category": "Architecture",
+      "level": 75,
+      "order": 4,
+      "createdAt": "2025-10-07T03:55:33.427Z",
+      "updatedAt": "2025-10-07T03:55:33.427Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f353b8876282ed21fe2",
+      "name": "Git & GitHub",
+      "category": "Tools",
+      "level": 90,
+      "order": 5,
+      "createdAt": "2025-10-07T03:55:33.817Z",
+      "updatedAt": "2025-10-07T03:55:33.817Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f363b8876282ed21fe4",
+      "name": "Cloudinary",
+      "category": "Tools",
+      "level": 80,
+      "order": 6,
+      "createdAt": "2025-10-07T03:55:34.205Z",
+      "updatedAt": "2025-10-07T03:55:34.205Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f363b8876282ed21fe6",
+      "name": "Socket.io",
+      "category": "Backend",
+      "level": 80,
+      "order": 7,
+      "createdAt": "2025-10-07T03:55:34.632Z",
+      "updatedAt": "2025-10-07T03:55:34.632Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f373b8876282ed21fe8",
+      "name": "Express",
+      "category": "Backend",
+      "level": 90,
+      "order": 8,
+      "createdAt": "2025-10-07T03:55:35.027Z",
+      "updatedAt": "2025-10-07T03:55:35.027Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f373b8876282ed21fea",
+      "name": "MongoDB",
+      "category": "Database",
+      "level": 85,
+      "order": 9,
+      "createdAt": "2025-10-07T03:55:35.450Z",
+      "updatedAt": "2025-10-07T03:55:35.450Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f373b8876282ed21fec",
+      "name": "MySQL",
+      "category": "Database",
+      "level": 80,
+      "order": 10,
+      "createdAt": "2025-10-07T03:55:35.895Z",
+      "updatedAt": "2025-10-07T03:55:35.895Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f383b8876282ed21fee",
+      "name": "Express.js",
+      "category": "Backend",
+      "level": 90,
+      "order": 11,
+      "createdAt": "2025-10-07T03:55:36.279Z",
+      "updatedAt": "2025-10-07T03:55:36.279Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f383b8876282ed21ff0",
+      "name": "HTML",
+      "category": "Frontend",
+      "level": 95,
+      "order": 12,
+      "createdAt": "2025-10-07T03:55:36.672Z",
+      "updatedAt": "2025-10-07T03:55:36.672Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f393b8876282ed21ff2",
+      "name": "CSS",
+      "category": "Frontend",
+      "level": 90,
+      "order": 13,
+      "createdAt": "2025-10-07T03:55:37.631Z",
+      "updatedAt": "2025-10-07T03:55:37.631Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3a3b8876282ed21ff4",
+      "name": "TypeScript",
+      "category": "Programming Language",
+      "level": 85,
+      "order": 14,
+      "createdAt": "2025-10-07T03:55:38.013Z",
+      "updatedAt": "2025-10-07T03:55:38.013Z",
+      "__v": 0
+    },
+    {
+      "_id": "6a71588be374ec0e525885d2",
+      "name": "Access Token & Refresh Token",
+      "category": "",
+      "level": 80,
+      "order": 14,
+      "createdAt": "2026-08-04T03:12:11.066Z",
+      "updatedAt": "2026-08-04T03:12:11.066Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3a3b8876282ed21ff6",
+      "name": "Next.js",
+      "category": "Frontend",
+      "level": 85,
+      "order": 15,
+      "createdAt": "2025-10-07T03:55:38.488Z",
+      "updatedAt": "2025-10-07T03:55:38.488Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3a3b8876282ed21ff8",
+      "name": "Redux",
+      "category": "State Management",
+      "level": 85,
+      "order": 16,
+      "createdAt": "2025-10-07T03:55:38.891Z",
+      "updatedAt": "2025-10-07T03:55:38.891Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3b3b8876282ed21ffa",
+      "name": "RTK",
+      "category": "State Management",
+      "level": 85,
+      "order": 17,
+      "createdAt": "2025-10-07T03:55:39.287Z",
+      "updatedAt": "2025-10-07T03:55:39.287Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3b3b8876282ed21ffc",
+      "name": "SQL",
+      "category": "Database",
+      "level": 80,
+      "order": 18,
+      "createdAt": "2025-10-07T03:55:39.711Z",
+      "updatedAt": "2025-10-07T03:55:39.711Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3c3b8876282ed21ffe",
+      "name": "JWT",
+      "category": "Authentication",
+      "level": 85,
+      "order": 19,
+      "createdAt": "2025-10-07T03:55:40.093Z",
+      "updatedAt": "2025-10-07T03:55:40.093Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3c3b8876282ed22000",
+      "name": "OAuth2.0",
+      "category": "Authentication",
+      "level": 75,
+      "order": 20,
+      "createdAt": "2025-10-07T03:55:40.530Z",
+      "updatedAt": "2025-10-07T03:55:40.530Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3c3b8876282ed22002",
+      "name": "Trello",
+      "category": "Tools",
+      "level": 80,
+      "order": 21,
+      "createdAt": "2025-10-07T03:55:40.938Z",
+      "updatedAt": "2025-10-07T03:55:40.938Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3d3b8876282ed22004",
+      "name": "Vercel",
+      "category": "Deployment",
+      "level": 85,
+      "order": 22,
+      "createdAt": "2025-10-07T03:55:41.349Z",
+      "updatedAt": "2025-10-07T03:55:41.349Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3d3b8876282ed22006",
+      "name": "Render",
+      "category": "Deployment",
+      "level": 80,
+      "order": 23,
+      "createdAt": "2025-10-07T03:55:41.758Z",
+      "updatedAt": "2025-10-07T03:55:41.758Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3e3b8876282ed22008",
+      "name": "Material UI",
+      "category": "UI Library",
+      "level": 85,
+      "order": 24,
+      "createdAt": "2025-10-07T03:55:42.155Z",
+      "updatedAt": "2025-10-07T03:55:42.155Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3e3b8876282ed2200a",
+      "name": "shadcn/ui",
+      "category": "UI Library",
+      "level": 85,
+      "order": 25,
+      "createdAt": "2025-10-07T03:55:42.809Z",
+      "updatedAt": "2025-10-07T03:55:42.809Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3f3b8876282ed2200c",
+      "name": "React Native",
+      "category": "Mobile",
+      "level": 75,
+      "order": 26,
+      "createdAt": "2025-10-07T03:55:43.194Z",
+      "updatedAt": "2025-10-07T03:55:43.194Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f3f3b8876282ed2200e",
+      "name": "REST API",
+      "category": "API",
+      "level": 90,
+      "order": 27,
+      "createdAt": "2025-10-07T03:55:43.602Z",
+      "updatedAt": "2025-10-07T03:55:43.602Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f403b8876282ed22010",
+      "name": "Passport.js",
+      "category": "Authentication",
+      "level": 80,
+      "order": 28,
+      "createdAt": "2025-10-07T03:55:44.016Z",
+      "updatedAt": "2025-10-07T03:55:44.016Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f403b8876282ed22012",
+      "name": "Redis",
+      "category": "Database",
+      "level": 70,
+      "order": 29,
+      "createdAt": "2025-10-07T03:55:44.421Z",
+      "updatedAt": "2025-10-07T03:55:44.421Z",
+      "__v": 0
+    },
+    {
+      "_id": "68e48f413b8876282ed22014",
+      "name": "Tailwind CSS",
+      "category": "CSS Framework",
+      "level": 90,
+      "order": 30,
+      "createdAt": "2025-10-07T03:55:45.343Z",
+      "updatedAt": "2025-10-07T03:55:45.343Z",
+      "__v": 0
+    }
+  ],
+  "projects": [],
+  "experiences": [],
+  "contacts": [],
+  "footer": {
+    "_id": "69cb42e948ba93574f953560",
+    "email": "samikshalambe25@gmail.com",
+    "phone": "919270481797",
+    "location": "Chhatrapati Sambhajinagar, Maharashtra",
+    "githubUrl": "https://github.com/",
+    "linkedinUrl": "",
+    "description": "MERN Stack Developer with a passion for creating beautiful, responsive web applications.",
+    "createdAt": "2026-03-31T03:43:37.801Z",
+    "updatedAt": "2026-10-07T10:33:38.082Z",
+    "__v": 0
+  }
+}

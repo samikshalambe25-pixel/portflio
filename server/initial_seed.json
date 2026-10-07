@@ -1,0 +1,949 @@
+{
+  "home": {
+    "success": true,
+    "data": {
+      "hero": {
+        "name": "Komal Kshirsagar",
+        "title": "MERN Stack Developer",
+        "subtitle": "Crafting Scalable Web & Mobile Applications.",
+        "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"
+      },
+      "about": {
+        "title": "About Me",
+        "subtitle": "Get to know me better",
+        "description1": "I'm a MERN Stack Developer with a passion for building modern, responsive web applications. With expertise in JavaScript, React, Node.js, and related technologies, I create intuitive and visually appealing user interfaces.",
+        "description2": "Currently working at Matic UI, I've contributed to various projects including a Medical Diagnostic App and a SaaS Property Management Platform.",
+        "currentCompany": "Matic UI"
+      },
+      "projects": {
+        "title": "Featured Projects",
+        "subtitle": "Some of my recent work"
+      },
+      "skills": {
+        "title": "My Skills",
+        "subtitle": "Technologies I work with"
+      },
+      "contact": {
+        "title": "Ready to Work Together?",
+        "subtitle": "Let's discuss your project and see how I can help bring your ideas to life."
+      },
+      "_id": "69cb44483c0441ba05819de5",
+      "createdAt": "2026-03-31T03:49:28.721Z",
+      "updatedAt": "2026-07-27T12:49:42.787Z",
+      "__v": 0
+    }
+  },
+  "about": {
+    "success": true,
+    "data": {
+      "bio": {
+        "introduction": "I'm Komal Kshirsagar, a MERN Stack Developer based in Chhatrapati Sambhajinagar, Maharashtra. With a strong foundation in web development, I specialize in creating responsive and user-friendly web applications. ",
+        "journey": "My journey in web development began during my MCA studies where I developed a passion for creating elegant solutions to complex problems. Since then, I've worked on various projects ranging from e-commerce platforms to real-time communication applications.",
+        "current": "Currently working at Matic UI, I've had the opportunity to work on cutting-edge projects including a Medical Diagnostic App and a SaaS Property Management Platform. I enjoy collaborating with teams and clients to deliver high-quality products that exceed expectations."
+      },
+      "personalInfo": {
+        "dateOfBirth": "17 March",
+        "location": "Chhatrapati Sambhajinagar, Maharashtra",
+        "email": "komalkshirasagar32009@gmail.com",
+        "phone": "+91-8080211162",
+        "languages": [
+          "English",
+          "Hindi",
+          "Marathi"
+        ]
+      },
+      "_id": "68e491ffc3970848918c597f",
+      "name": "Komal Kshirsagar",
+      "title": "MERN Stack Developer",
+      "createdAt": "2025-10-07T04:07:27.445Z",
+      "updatedAt": "2025-10-07T04:18:57.204Z",
+      "__v": 0,
+      "profileImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReVqJ3jDZixw_H1mSqaDAWeZG_f-QFpz3WHlGeDF113Q&s"
+    }
+  },
+  "stats": {
+    "success": true,
+    "data": {
+      "_id": "68e49309ce63313fe20c61ce",
+      "yearsExperience": "2+",
+      "projectsCompleted": "16+",
+      "technologies": "15+",
+      "happyClients": "5+",
+      "createdAt": "2025-10-07T04:11:53.870Z",
+      "updatedAt": "2026-03-11T04:09:07.124Z",
+      "__v": 0
+    }
+  },
+  "skills": {
+    "success": true,
+    "count": 40,
+    "data": [
+      {
+        "_id": "6a61e2d74c55984b1f928d4b",
+        "name": "Cloudinary",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-07-23T09:45:59.690Z",
+        "updatedAt": "2026-07-23T09:45:59.690Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a61e2ee4c55984b1f928d4d",
+        "name": "Postman",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-07-23T09:46:22.160Z",
+        "updatedAt": "2026-07-23T09:46:22.160Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a61e3214c55984b1f928d4f",
+        "name": "Swagger",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-07-23T09:47:13.619Z",
+        "updatedAt": "2026-07-23T09:47:13.619Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a71567be374ec0e525885c6",
+        "name": "Jest",
+        "category": "Frontend",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-08-04T03:03:23.559Z",
+        "updatedAt": "2026-08-04T03:03:23.559Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a715701e374ec0e525885c8",
+        "name": "Helmet",
+        "category": "Backend",
+        "level": 100,
+        "order": 0,
+        "createdAt": "2026-08-04T03:05:37.167Z",
+        "updatedAt": "2026-08-04T03:05:58.835Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a7157a7fb0821c0f0c02361",
+        "name": "Morgan",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-08-04T03:08:23.929Z",
+        "updatedAt": "2026-08-04T03:08:23.929Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a7158bfe374ec0e525885d6",
+        "name": "Swagger",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-08-04T03:13:03.169Z",
+        "updatedAt": "2026-08-04T03:13:03.169Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a7158dde374ec0e525885d8",
+        "name": "Vercel-Render,",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-08-04T03:13:33.194Z",
+        "updatedAt": "2026-08-04T03:14:23.828Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a715954e374ec0e525885dd",
+        "name": "(RBAC)-Passport.js",
+        "category": "",
+        "level": 80,
+        "order": 0,
+        "createdAt": "2026-08-04T03:15:32.767Z",
+        "updatedAt": "2026-08-04T03:15:32.767Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f343b8876282ed21fda",
+        "name": "JavaScript",
+        "category": "Programming Language",
+        "level": 90,
+        "order": 1,
+        "createdAt": "2025-10-07T03:55:32.174Z",
+        "updatedAt": "2025-10-07T03:55:32.174Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f343b8876282ed21fdc",
+        "name": "React",
+        "category": "Frontend",
+        "level": 90,
+        "order": 2,
+        "createdAt": "2025-10-07T03:55:32.591Z",
+        "updatedAt": "2025-10-07T03:55:32.591Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f343b8876282ed21fde",
+        "name": "Node.js",
+        "category": "Backend",
+        "level": 85,
+        "order": 3,
+        "createdAt": "2025-10-07T03:55:32.978Z",
+        "updatedAt": "2025-10-07T03:55:32.978Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f353b8876282ed21fe0",
+        "name": "Microservices",
+        "category": "Architecture",
+        "level": 75,
+        "order": 4,
+        "createdAt": "2025-10-07T03:55:33.427Z",
+        "updatedAt": "2025-10-07T03:55:33.427Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f353b8876282ed21fe2",
+        "name": "Git & GitHub",
+        "category": "Tools",
+        "level": 90,
+        "order": 5,
+        "createdAt": "2025-10-07T03:55:33.817Z",
+        "updatedAt": "2025-10-07T03:55:33.817Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f363b8876282ed21fe4",
+        "name": "Cloudinary",
+        "category": "Tools",
+        "level": 80,
+        "order": 6,
+        "createdAt": "2025-10-07T03:55:34.205Z",
+        "updatedAt": "2025-10-07T03:55:34.205Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f363b8876282ed21fe6",
+        "name": "Socket.io",
+        "category": "Backend",
+        "level": 80,
+        "order": 7,
+        "createdAt": "2025-10-07T03:55:34.632Z",
+        "updatedAt": "2025-10-07T03:55:34.632Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f373b8876282ed21fe8",
+        "name": "Express",
+        "category": "Backend",
+        "level": 90,
+        "order": 8,
+        "createdAt": "2025-10-07T03:55:35.027Z",
+        "updatedAt": "2025-10-07T03:55:35.027Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f373b8876282ed21fea",
+        "name": "MongoDB",
+        "category": "Database",
+        "level": 85,
+        "order": 9,
+        "createdAt": "2025-10-07T03:55:35.450Z",
+        "updatedAt": "2025-10-07T03:55:35.450Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f373b8876282ed21fec",
+        "name": "MySQL",
+        "category": "Database",
+        "level": 80,
+        "order": 10,
+        "createdAt": "2025-10-07T03:55:35.895Z",
+        "updatedAt": "2025-10-07T03:55:35.895Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f383b8876282ed21fee",
+        "name": "Express.js",
+        "category": "Backend",
+        "level": 90,
+        "order": 11,
+        "createdAt": "2025-10-07T03:55:36.279Z",
+        "updatedAt": "2025-10-07T03:55:36.279Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f383b8876282ed21ff0",
+        "name": "HTML",
+        "category": "Frontend",
+        "level": 95,
+        "order": 12,
+        "createdAt": "2025-10-07T03:55:36.672Z",
+        "updatedAt": "2025-10-07T03:55:36.672Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f393b8876282ed21ff2",
+        "name": "CSS",
+        "category": "Frontend",
+        "level": 90,
+        "order": 13,
+        "createdAt": "2025-10-07T03:55:37.631Z",
+        "updatedAt": "2025-10-07T03:55:37.631Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3a3b8876282ed21ff4",
+        "name": "TypeScript",
+        "category": "Programming Language",
+        "level": 85,
+        "order": 14,
+        "createdAt": "2025-10-07T03:55:38.013Z",
+        "updatedAt": "2025-10-07T03:55:38.013Z",
+        "__v": 0
+      },
+      {
+        "_id": "6a71588be374ec0e525885d2",
+        "name": "Access Token & Refresh Token",
+        "category": "",
+        "level": 80,
+        "order": 14,
+        "createdAt": "2026-08-04T03:12:11.066Z",
+        "updatedAt": "2026-08-04T03:12:11.066Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3a3b8876282ed21ff6",
+        "name": "Next.js",
+        "category": "Frontend",
+        "level": 85,
+        "order": 15,
+        "createdAt": "2025-10-07T03:55:38.488Z",
+        "updatedAt": "2025-10-07T03:55:38.488Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3a3b8876282ed21ff8",
+        "name": "Redux",
+        "category": "State Management",
+        "level": 85,
+        "order": 16,
+        "createdAt": "2025-10-07T03:55:38.891Z",
+        "updatedAt": "2025-10-07T03:55:38.891Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3b3b8876282ed21ffa",
+        "name": "RTK",
+        "category": "State Management",
+        "level": 85,
+        "order": 17,
+        "createdAt": "2025-10-07T03:55:39.287Z",
+        "updatedAt": "2025-10-07T03:55:39.287Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3b3b8876282ed21ffc",
+        "name": "SQL",
+        "category": "Database",
+        "level": 80,
+        "order": 18,
+        "createdAt": "2025-10-07T03:55:39.711Z",
+        "updatedAt": "2025-10-07T03:55:39.711Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3c3b8876282ed21ffe",
+        "name": "JWT",
+        "category": "Authentication",
+        "level": 85,
+        "order": 19,
+        "createdAt": "2025-10-07T03:55:40.093Z",
+        "updatedAt": "2025-10-07T03:55:40.093Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3c3b8876282ed22000",
+        "name": "OAuth2.0",
+        "category": "Authentication",
+        "level": 75,
+        "order": 20,
+        "createdAt": "2025-10-07T03:55:40.530Z",
+        "updatedAt": "2025-10-07T03:55:40.530Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3c3b8876282ed22002",
+        "name": "Trello",
+        "category": "Tools",
+        "level": 80,
+        "order": 21,
+        "createdAt": "2025-10-07T03:55:40.938Z",
+        "updatedAt": "2025-10-07T03:55:40.938Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3d3b8876282ed22004",
+        "name": "Vercel",
+        "category": "Deployment",
+        "level": 85,
+        "order": 22,
+        "createdAt": "2025-10-07T03:55:41.349Z",
+        "updatedAt": "2025-10-07T03:55:41.349Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3d3b8876282ed22006",
+        "name": "Render",
+        "category": "Deployment",
+        "level": 80,
+        "order": 23,
+        "createdAt": "2025-10-07T03:55:41.758Z",
+        "updatedAt": "2025-10-07T03:55:41.758Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3e3b8876282ed22008",
+        "name": "Material UI",
+        "category": "UI Library",
+        "level": 85,
+        "order": 24,
+        "createdAt": "2025-10-07T03:55:42.155Z",
+        "updatedAt": "2025-10-07T03:55:42.155Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3e3b8876282ed2200a",
+        "name": "shadcn/ui",
+        "category": "UI Library",
+        "level": 85,
+        "order": 25,
+        "createdAt": "2025-10-07T03:55:42.809Z",
+        "updatedAt": "2025-10-07T03:55:42.809Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3f3b8876282ed2200c",
+        "name": "React Native",
+        "category": "Mobile",
+        "level": 75,
+        "order": 26,
+        "createdAt": "2025-10-07T03:55:43.194Z",
+        "updatedAt": "2025-10-07T03:55:43.194Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f3f3b8876282ed2200e",
+        "name": "REST API",
+        "category": "API",
+        "level": 90,
+        "order": 27,
+        "createdAt": "2025-10-07T03:55:43.602Z",
+        "updatedAt": "2025-10-07T03:55:43.602Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f403b8876282ed22010",
+        "name": "Passport.js",
+        "category": "Authentication",
+        "level": 80,
+        "order": 28,
+        "createdAt": "2025-10-07T03:55:44.016Z",
+        "updatedAt": "2025-10-07T03:55:44.016Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f403b8876282ed22012",
+        "name": "Redis",
+        "category": "Database",
+        "level": 70,
+        "order": 29,
+        "createdAt": "2025-10-07T03:55:44.421Z",
+        "updatedAt": "2025-10-07T03:55:44.421Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48f413b8876282ed22014",
+        "name": "Tailwind CSS",
+        "category": "CSS Framework",
+        "level": 90,
+        "order": 30,
+        "createdAt": "2025-10-07T03:55:45.343Z",
+        "updatedAt": "2025-10-07T03:55:45.343Z",
+        "__v": 0
+      }
+    ]
+  },
+  "projects": {
+    "success": true,
+    "count": 17,
+    "data": [
+      {
+        "_id": "6a61de6614f432b67b33cb48",
+        "title": "🚗 Sai Tours & Travels",
+        "description": "Sai Tours & Travels is committed to providing reliable travel services with well-maintained vehicles and professional drivers.",
+        "image": "https://media.istockphoto.com/id/1150372363/photo/an-ambassador-taxi-is-parked-on-the-streets-in-kolcata-the-ambassador-taxi-is-no-more-built.webp?a=1&b=1&s=612x612&w=0&k=20&c=9hKgBvSw0s5dfK9Gy3lbVeDu_ESnX03UVijFy593pTI=",
+        "category": "web",
+        "technologies": [
+          "React.js",
+          "Next.js",
+          "JavaScript",
+          "TypeScript",
+          "HTML5",
+          "CSS3",
+          "Tailwind CSS",
+          "ShadCN UI",
+          "Material UI",
+          "React Native",
+          "Expo",
+          "Expo Router",
+          "React Navigation",
+          "Redux Toolkit",
+          "RTK Query",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Mongoose",
+          "Socket.IO",
+          "JWT",
+          "bcrypt",
+          "Helmet",
+          "CORS",
+          "Express Rate Limit",
+          "Multer",
+          "Cloudinary",
+          "Nodemailer",
+          "Google Maps API",
+          "Google Directions API",
+          "Google Distance Matrix API",
+          "Google Places API",
+          "Geocoding API",
+          "Expo Push Notifications",
+          "Twilio",
+          "Razorpay",
+          "Git",
+          "GitHub",
+          "Turborepo",
+          "npm",
+          "MongoDB Atlas",
+          "Render",
+          "Vercel",
+          "Postman",
+          "Swagger/OpenAPI",
+          "ESLint",
+          "Prettier",
+          "Winston",
+          "Morgan",
+          "Docker"
+        ],
+        "liveUrl": "https://taxi-web-022n.onrender.com/",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2026-07-23T09:27:02.943Z",
+        "updatedAt": "2026-07-23T09:32:24.522Z",
+        "__v": 0
+      },
+      {
+        "_id": "69abd7df2a11ab59da9993af",
+        "title": "🍔 FoodHub UI",
+        "description": "A clean and responsive food ordering interface designed with modern UI components.",
+        "image": "https://images.squarespace-cdn.com/content/v1/612d4825ee7c3b7ba3e215b7/1667458982443-N6XGU1PU7335QEMVUP7M/Delicious+food.png",
+        "category": "web",
+        "technologies": [
+          "Shadcn UI"
+        ],
+        "liveUrl": "https://foodhub-teal-zeta.vercel.app",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2026-03-07T07:46:39.700Z",
+        "updatedAt": "2026-03-11T04:50:30.189Z",
+        "__v": 0
+      },
+      {
+        "_id": "69abd6992a11ab59da9993a9",
+        "title": "🥕 FreshMart UI",
+        "description": "A modern grocery shopping interface built with clean and responsive components.",
+        "image": "https://mir-s3-cdn-cf.behance.net/projects/404/71f1e0222349229.Y3JvcCw0MTQyLDMyNDAsMzAsMA.png",
+        "category": "web",
+        "technologies": [
+          "Shadcn UI"
+        ],
+        "liveUrl": "https://freshmart-omega.vercel.app",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2026-03-07T07:41:13.819Z",
+        "updatedAt": "2026-03-11T04:50:40.944Z",
+        "__v": 0
+      },
+      {
+        "_id": "69abd28c2a11ab59da999394",
+        "title": "📲 WhatsApp UI Clone",
+        "description": "The project focuses purely on frontend UI implementation including chat layout, sidebar conversation list, message display, and user-friendly interface components.",
+        "image": "https://s3-alpha.figma.com/hub/file/2297138090320864530/44d26fa5-efb0-41ab-8b40-a941875989c6-cover.png",
+        "category": "web",
+        "technologies": [
+          "Shadcn UI"
+        ],
+        "liveUrl": "https://what-s-app-ui-tawny.vercel.app",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2026-03-07T07:23:56.975Z",
+        "updatedAt": "2026-03-11T04:51:09.770Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836b28b815d1857a7741",
+        "title": "🚀 Fluxify",
+        "description": "The all-in-one platform that helps teams collaborate, manage projects.",
+        "image": "https://plus.unsplash.com/premium_photo-1733353204288-ba5c8ba3ad7d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "liveUrl": "https://project-xi-ashen-70.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar/fluxify.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:15.447Z",
+        "updatedAt": "2026-03-11T04:51:16.375Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836b28b815d1857a773f",
+        "title": "🩺 Truvista Healthcare",
+        "description": "The Truvista Healthcare Admin Dashboard is a responsive and user-friendly web application.",
+        "image": "https://media.istockphoto.com/id/2096475191/photo/data-analytics-automated-with-ai-technology-big-data-business-analytics-and-artificial.jpg?s=1024x1024&w=is&k=20&c=v1fJAcsXJFCXO06EM_N57K8qNBBZsgddy_D7TnXR2-E=",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Express",
+          "Tailwind CSS"
+        ],
+        "liveUrl": "https://02-admin-panel.vercel.app/dashboard",
+        "githubUrl": "https://github.com/17komalkshirsagar/dashboard.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:15.087Z",
+        "updatedAt": "2026-03-07T07:56:46.990Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836a28b815d1857a773d",
+        "title": "🛍️ Stylique",
+        "description": "Where fashion meets tech! Explore the latest clothing styles, footwear trends, and mobile essentials all in one trendy store.",
+        "image": "https://images.unsplash.com/photo-1485217988980-11786ced9454?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Next.js",
+          "Express",
+          "Shadcn UI",
+          "TypeScript"
+        ],
+        "liveUrl": "https://ecom-new-green.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:14.720Z",
+        "updatedAt": "2026-03-11T04:51:24.501Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836a28b815d1857a773b",
+        "title": "🚜 Agricultural UI",
+        "description": "We provide high-quality insecticides, herbicides, fungicides, and seeds to help your crops flourish.",
+        "image": "https://plus.unsplash.com/premium_photo-1664303828953-3e8ef4ac44e2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YWdyaWNsdXRyZSUyMGltYWdlfGVufDB8fDB8fHww",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Next.js",
+          "Express",
+          "Shadcn UI",
+          "TypeScript"
+        ],
+        "liveUrl": "https://kedar-krushi-seva-kendra-w8zk.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:14.315Z",
+        "updatedAt": "2026-03-07T08:00:19.310Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836928b815d1857a7739",
+        "title": "👗 FabricFusion",
+        "description": "Appropriate clothes can also reduce risk during activities such as work or sport.",
+        "image": "https://images.unsplash.com/photo-1517472292914-9570a594783b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNsb3RofGVufDB8fDB8fHww",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Next.js",
+          "Express",
+          "Shadcn UI",
+          "TypeScript"
+        ],
+        "liveUrl": "https://fabricfusion-gamma.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:13.923Z",
+        "updatedAt": "2026-03-07T08:01:41.885Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836928b815d1857a7735",
+        "title": "🏠 Property Management Platform",
+        "description": "SaaS platform for property management with tenant management, maintenance requests, and payment processing.",
+        "image": "https://images.pexels.com/photos/8293778/pexels-photo-8293778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Next.js",
+          "Express",
+          "MongoDB",
+          "TypeScript"
+        ],
+        "liveUrl": "https://client-gamma-one-54.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar/landlord-maintenance.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:13.115Z",
+        "updatedAt": "2026-03-07T08:02:12.217Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836828b815d1857a7733",
+        "title": "🩺 Medical Diagnostic App",
+        "description": "Mobile application for medical diagnostics with appointment scheduling and test results tracking.",
+        "image": "https://plus.unsplash.com/premium_photo-1672759455907-bdaef741cd88?q=80&w=1416&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "mobile",
+        "technologies": [
+          "React Native",
+          "Firebase",
+          "Node.js"
+        ],
+        "liveUrl": "https://medical-diagnostic.example.com",
+        "githubUrl": "https://github.com/17komalkshirsagar/medical-app",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:12.620Z",
+        "updatedAt": "2026-03-07T08:03:25.896Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836828b815d1857a7731",
+        "title": "🛒 E-Commerce Platform",
+        "description": "Fully featured shopping app with cart functionality, authentication flow, and checkout process.",
+        "image": "https://images.unsplash.com/photo-1600201319331-27d31ecd7850?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Redux",
+          "Node.js",
+          "Express"
+        ],
+        "liveUrl": "https://e-commerce-kyoo.onrender.com",
+        "githubUrl": "https://github.com/17komalkshirsagar/e-commerce.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:12.205Z",
+        "updatedAt": "2026-03-07T08:02:50.285Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836728b815d1857a772f",
+        "title": "🌿 Zen – Pure Spices & Gourmet Delights",
+        "description": "Zen, your destination for authentic, aromatic, and handpicked spices that bring every dish to life.",
+        "image": "https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Node.js",
+          "Express",
+          "RTK",
+          "Bootstrap"
+        ],
+        "liveUrl": "https://client-gamma-one-54.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar/zen.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:11.833Z",
+        "updatedAt": "2025-10-07T03:05:11.833Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836728b815d1857a772d",
+        "title": "WhatsApp Clone",
+        "description": "Real-time chat application with user authentication, message storage, and real-time updates.",
+        "image": "https://images.unsplash.com/photo-1614680376408-81e91ffe3db7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Socket.IO",
+          "Express",
+          "MongoDB"
+        ],
+        "liveUrl": "https://whatsapp-a9jb.onrender.com",
+        "githubUrl": "https://github.com/17komalkshirsagar/whatsapp.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:11.397Z",
+        "updatedAt": "2025-10-07T03:05:11.397Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836628b815d1857a772b",
+        "title": "🔷 MVAD",
+        "description": "MVAD delivers comprehensive business solutions across consulting, construction, events, software development, and maintenance services.",
+        "image": "https://plus.unsplash.com/premium_photo-1679941208875-0fa8522fe6a5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8d2Vic2l0ZSUyMG1hZ2VzfGVufDB8fDB8fHww",
+        "category": "web",
+        "technologies": [
+          "shadcn UI",
+          "Tailwind CSS",
+          "TypeScript"
+        ],
+        "liveUrl": "https://www.mvadeventfulendeavors.com/",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:10.983Z",
+        "updatedAt": "2026-07-23T09:34:51.570Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e4836528b815d1857a7729",
+        "title": "📚 Tom Research Consultancy",
+        "description": "Professional consultancy website showcasing research services, insights, and company profile.",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.1.0",
+        "category": "web",
+        "technologies": [
+          "Next.js",
+          "TailwindCSS",
+          "Node.js",
+          "Shadcn UI",
+          "TypeScript"
+        ],
+        "liveUrl": "https://www.tomresearchconsultancy.com/",
+        "githubUrl": "https://github.com/17komalkshirsagar/tom.git",
+        "featured": false,
+        "createdAt": "2025-10-07T03:05:09.125Z",
+        "updatedAt": "2026-03-07T08:04:39.940Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e47bcf5aaf1578049503d9",
+        "title": "🌾Kedar Krushi Seva Kendra - Billing & Inventory",
+        "description": "This app streamlines stock handling, invoice generation, customer bill management.",
+        "image": "https://5.imimg.com/data5/ANDROID/Default/2023/4/302663181/YM/KA/MO/188616549/product-jpeg-1000x1000.jpg",
+        "category": "web",
+        "technologies": [
+          "React",
+          "Next.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Shadcn UI",
+          "RTK",
+          "Tailwind CSS",
+          "Type Script"
+        ],
+        "liveUrl": "https://kedar-client.vercel.app/",
+        "githubUrl": "https://github.com/17komalkshirsagar",
+        "featured": false,
+        "createdAt": "2025-10-07T02:32:47.844Z",
+        "updatedAt": "2025-10-07T02:34:07.395Z",
+        "__v": 0
+      }
+    ]
+  },
+  "experiences": {
+    "success": true,
+    "count": 4,
+    "data": [
+      {
+        "_id": "6a71554c481a49a0e37009e0",
+        "role": "Full Stack Developer",
+        "company": "Mayking",
+        "period": "June  2026  - Present",
+        "description": "Experienced in building responsive frontends, developing RESTful APIs, integrating databases, and collaborating with cross-functional teams to deliver high-quality software solutions.",
+        "responsibilities": [
+          "Developed and maintained scalable, responsive web applications using modern frontend and backend technologies.",
+          "Built reusable, maintainable, and high-performance UI components with React.js.",
+          "Designed and developed secure RESTful APIs using Node.js and Express.js.",
+          "Integrated frontend applications with backend services and third-party APIs.",
+          "Followed clean coding standards and best practices to build scalable and maintainable applications."
+        ],
+        "order": 1,
+        "createdAt": "2026-08-04T02:58:20.148Z",
+        "updatedAt": "2026-08-05T05:31:21.777Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48cf2922ab1c14ec260c0",
+        "role": "MERN Stack Developer",
+        "company": "Matic UI",
+        "period": "Feb 2024",
+        "description": "Working on various web applications including a Medical Diagnostic App and a SaaS Property Management Platform.",
+        "responsibilities": [
+          "Developed a responsive Medical Diagnostic App using React and Node.js",
+          "Contributed to a SaaS Property Management Platform with user authentication and dashboard",
+          "Created custom animated loaders and transitions using Framer Motion",
+          "Implemented responsive design patterns for cross-device compatibility",
+          "Collaborated with design and backend teams to deliver features on schedule"
+        ],
+        "order": 2,
+        "createdAt": "2025-10-07T03:45:54.189Z",
+        "updatedAt": "2026-08-04T02:58:42.847Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48cf2922ab1c14ec260c2",
+        "role": "Frontend Developer Intern",
+        "company": "Tech Solutions",
+        "period": "Jul 2023 - Jan 2024",
+        "description": "Worked on frontend development and UI implementation for various client projects.",
+        "responsibilities": [
+          "Built responsive user interfaces using React.js and Tailwind CSS",
+          "Implemented state management solutions using Redux",
+          "Collaborated with designers to implement pixel-perfect UIs",
+          "Participated in code reviews and implemented feedback",
+          "Assisted in optimizing application performance"
+        ],
+        "order": 3,
+        "createdAt": "2025-10-07T03:45:54.603Z",
+        "updatedAt": "2026-08-04T02:59:14.047Z",
+        "__v": 0
+      },
+      {
+        "_id": "68e48cf2922ab1c14ec260c4",
+        "role": "Web Development Freelancer",
+        "company": "Self-employed",
+        "period": "Jan 2023 - Jul 2023",
+        "description": "Worked with various clients to deliver web solutions for their businesses.",
+        "responsibilities": [
+          "Developed custom websites for small businesses and entrepreneurs",
+          "Created responsive layouts compatible with all modern browsers",
+          "Implemented SEO best practices for better search engine visibility",
+          "Maintained ongoing relationships with clients for updates and maintenance",
+          "Managed multiple projects simultaneously while meeting deadlines"
+        ],
+        "order": 4,
+        "createdAt": "2025-10-07T03:45:54.987Z",
+        "updatedAt": "2026-08-04T02:58:54.549Z",
+        "__v": 0
+      }
+    ]
+  },
+  "footer": {
+    "success": true,
+    "data": {
+      "_id": "69cb42e948ba93574f953560",
+      "email": "komalkshirasagar32009@gmail.com",
+      "phone": "+91-8080211162",
+      "location": "Chhatrapati Sambhajinagar, Maharashtra",
+      "githubUrl": "https://github.com",
+      "linkedinUrl": "https://linkedin.com",
+      "description": "MERN Stack Developer with a passion for creating beautiful, responsive web applications.",
+      "createdAt": "2026-03-31T03:43:37.801Z",
+      "updatedAt": "2026-03-31T03:43:37.801Z",
+      "__v": 0
+    }
+  }
+}
